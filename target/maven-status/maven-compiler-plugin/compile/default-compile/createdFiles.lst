@@ -1,0 +1,5 @@
+com\lanlq\jersey\ServiceResult.class
+com\lanlq\jersey\JerseyService.class
+com\lanlq\jersey\CustomResult.class
+com\lanlq\jersey\Employee.class
+com\lanlq\jersey\EmployeeResource.class
